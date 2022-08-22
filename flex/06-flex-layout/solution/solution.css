@@ -38,7 +38,8 @@ button {
 }
 
 .content {
-  flex: 1;
+  flex: 1; 
+  /* This is what pisitioned the header and footer */
   display: flex;
   align-items: center;
   justify-content: center;

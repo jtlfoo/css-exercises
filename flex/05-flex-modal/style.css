@@ -64,3 +64,27 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
+
+/* Attempt */
+
+.modal {
+  display: flex;
+  width: 500px;
+  gap: 12px;
+  padding: 12px
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+
+.header {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.text {
+  margin-bottom: 12px;
+}
